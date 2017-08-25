@@ -168,7 +168,11 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
+<<<<<<< HEAD
   orthographic size: 3
+=======
+  orthographic size: 5
+>>>>>>> 1e9c30b8f5cbbca86c9520fa1a8d35670f3c3057
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -197,6 +201,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &2091013958
 GameObject:
   m_ObjectHideFlags: 0
@@ -260,3 +265,5 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 1e9c30b8f5cbbca86c9520fa1a8d35670f3c3057
