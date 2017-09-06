@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -65,7 +65,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: 
+  m_LastLoadedLayoutName: myLayout
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -91,11 +91,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 83
-=======
-  controlID: 21
->>>>>>> master
+  controlID: 261
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,12 +130,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 530
+    width: 712
     height: 731
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 22
+  controlID: 331
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,9 +150,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 530
+    x: 712
     y: 0
-    width: 204
+    width: 247
     height: 731
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -179,9 +175,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 734
+    x: 959
     y: 0
-    width: 354
+    width: 234
     height: 731
   m_MinSize: {x: 234, y: 271}
   m_MaxSize: {x: 10004, y: 10021}
@@ -204,9 +200,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1088
+    x: 1193
     y: 0
-    width: 448
+    width: 343
     height: 731
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
@@ -231,7 +227,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 530
+    width: 712
     height: 375
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -256,7 +252,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 375
-    width: 530
+    width: 712
     height: 356
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -287,21 +283,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 532
+    x: 714
     y: 92
-    width: 200
+    width: 243
     height: 710
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
     m_SelectedIDs: be260000
-    m_LastClickedID: 9918
-    m_ExpandedIDs: 1cfcffff00000000
-=======
-    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: f6fbffff00000000
->>>>>>> master
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -317,10 +307,9 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 7}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
-  m_ExpandedScenes:
-  - test
+  m_ExpandedScenes: []
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -346,9 +335,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1090
+    x: 1195
     y: 92
-    width: 446
+    width: 341
     height: 710
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
@@ -379,9 +368,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 736
+    x: 961
     y: 92
-    width: 350
+    width: 230
     height: 710
   m_SearchFilter:
     m_NameFilter: 
@@ -394,22 +383,20 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders: []
+    m_Folders:
+    - Assets
   m_ViewMode: 0
   m_StartGridSize: 64
-  m_LastFolders: []
+  m_LastFolders:
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\yuuki\Documents\github\Test\2d-shooting-game-master
+  m_LastProjectPath: C:\Users\RyoyaSudo\Documents\GitHub\Test\2d-shooting-game-master
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70270000
-    m_LastClickedID: 10096
-<<<<<<< HEAD
-    m_ExpandedIDs: 000000001426000018260000582600005e26000060260000622600006c2600007a2600007c26000086260000882600009c2600009e260000a8260000f2260000f4260000
-=======
-    m_ExpandedIDs: 00000000ae260000b2260000f2260000f8260000fa260000fc26000006270000142700001627000020270000222700003627000038270000422700008627000088270000
->>>>>>> master
+    m_SelectedIDs: 14260000
+    m_LastClickedID: 9748
+    m_ExpandedIDs: 000000001426000018260000582600005e26000060260000622600006c2600007a2600007c26000086260000882600009c2600009e260000a8260000fc260000fe26000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -437,11 +424,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 000000001426000018260000582600005e26000060260000622600006c2600007a2600007c26000086260000882600009c2600009e260000a8260000f2260000f4260000
-=======
-    m_ExpandedIDs: 00000000ae260000b2260000f2260000f8260000fa260000fc26000006270000142700001627000020270000222700003627000038270000422700008627000088270000
->>>>>>> master
+    m_ExpandedIDs: 000000001426000018260000582600005e26000060260000622600006c2600007a2600007c26000086260000882600009c2600009e260000a8260000fc260000fe26000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -520,7 +503,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 467
-    width: 528
+    width: 710
     height: 335
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -530,8 +513,8 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -264
-    m_HBaseRangeMax: 264
+    m_HBaseRangeMin: -355
+    m_HBaseRangeMax: 355
     m_VBaseRangeMin: -159
     m_VBaseRangeMax: 159
     m_HAllowExceedBaseRangeMin: 1
@@ -550,25 +533,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 528
+      width: 710
       height: 318
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 264, y: 159}
+    m_Translation: {x: 355, y: 159}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -264
+      x: -355
       y: -159
-      width: 528
+      width: 710
       height: 318
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 528, y: 335}
+  m_LastWindowPixelSize: {x: 710, y: 335}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -596,10 +579,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
-    width: 528
+    width: 710
     height: 354
   m_SceneLighting: 1
-  lastFramingTime: 115.75267025116672
+  lastFramingTime: 0
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
@@ -633,9 +616,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 22
+    m_Target: 10
     speed: 2
-    m_Value: 22
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
