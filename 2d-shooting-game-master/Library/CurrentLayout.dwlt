@@ -91,7 +91,11 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 83
+=======
+  controlID: 21
+>>>>>>> master
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 42
+  controlID: 22
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -289,9 +293,15 @@ MonoBehaviour:
     height: 710
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: be260000
     m_LastClickedID: 9918
     m_ExpandedIDs: 1cfcffff00000000
+=======
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: f6fbffff00000000
+>>>>>>> master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -384,20 +394,22 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets/Sprites/Bullet
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
-  m_LastFolders:
-  - Assets
+  m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\RyoyaSudo\Documents\GitHub\Test\2d-shooting-game-master
+  m_LastProjectPath: C:\Users\yuuki\Documents\github\Test\2d-shooting-game-master
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 70270000
     m_LastClickedID: 10096
+<<<<<<< HEAD
     m_ExpandedIDs: 000000001426000018260000582600005e26000060260000622600006c2600007a2600007c26000086260000882600009c2600009e260000a8260000f2260000f4260000
+=======
+    m_ExpandedIDs: 00000000ae260000b2260000f2260000f8260000fa260000fc26000006270000142700001627000020270000222700003627000038270000422700008627000088270000
+>>>>>>> master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -425,7 +437,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000001426000018260000582600005e26000060260000622600006c2600007a2600007c26000086260000882600009c2600009e260000a8260000f2260000f4260000
+=======
+    m_ExpandedIDs: 00000000ae260000b2260000f2260000f8260000fa260000fc26000006270000142700001627000020270000222700003627000038270000422700008627000088270000
+>>>>>>> master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
