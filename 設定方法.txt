@@ -1,0 +1,4 @@
+EditからProjectSettingsからEditorを選択。
+Asset SerizationをForce Textに変更。
+
+
